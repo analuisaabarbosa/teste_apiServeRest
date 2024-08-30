@@ -1,2 +1,4 @@
-# teste_api_serveRest
-Automações de UI e testes de API, exercício módulo 13 do curso Engenheiro de Qualidade de Software da EBAC.
+## Teste da API ServeRest 
+[![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
+
+Teste da API ServeRest realizado localmente, abrangendo os principais cenários das funcionalidades, tanto positivos quanto negativos, e incluindo as devidas asserções para as requisições.
